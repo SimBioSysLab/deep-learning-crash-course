@@ -28,3 +28,4 @@ Collection of resources for getting started with deep learning and neural networ
 
  - [Complex Sequencing Rules of Birdsong Can be Explained by Simple Hidden Markov Processes](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0024516)
  - [A Compact Statistical Model of the Song Syntax in Bengalese Finch](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3060163/)
+ - [Central auditory neurons have composite receptive fields](https://docs.google.com/presentation/d/1oye2HABpY3gGxDAeuFVUvVW0HDSCLmnwt1W4N59_izI/edit?usp=sharing)
